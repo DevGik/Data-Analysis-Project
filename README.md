@@ -4,6 +4,9 @@ The objective of this project is to analyze the company’s overall sales perfor
 The dashboard provides a comprehensive view of key business metrics such as revenue, units sold, cost, and profit.
 It helps stakeholders understand where the company is performing well and where improvements can be made by breaking insights down by product, geography, and time.
 
+## Dataset Used
+<a href="https://github.com/DevGik/Data-Analysis-Project/blob/main/Power%20BI%20Exercise%202%20edited.pbix">Power BI data</a>
+
 ## Questions (KPIs) the Dashboard Answers
 This report was developed to answer the following key performance questions:
 1.	What is the total revenue generated?
@@ -40,6 +43,10 @@ The following steps were carried out to build the report:
 5. Formatting & Branding
   - Applied a consistent theme for visual clarity.
   - Used layout alignment, colors, and icons to enhance readability.
+
+## Dashboard
+
+![dashbaord](https://github.com/user-attachments/assets/b1f090ca-fa84-4ed7-bd0d-bf59bcf76c34)
 
 ## Project Insights
 The dashboard revealed the following insights:
