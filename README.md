@@ -1,5 +1,7 @@
 - [Project Objectives](#project-objective)
 - [Dataset Used](#dataset-used)
+- [Questions (KPIs) the Dashboard Answers](#questions-(KPIs)-the-dashboard-answers)
+- [Process](#process)
 
 
 # Company’s Performance Analysis – Power BI Project
