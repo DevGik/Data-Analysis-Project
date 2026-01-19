@@ -1,5 +1,5 @@
-[Project Objectives](#project-objective)
-[Dataset Used](#dataset-used)
+- [Project Objectives](#project-objective)
+- [Dataset Used](#dataset-used)
 
 
 # Company’s Performance Analysis – Power BI Project
