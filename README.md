@@ -1,3 +1,7 @@
+[Project Objectives](#project-objective)
+[Dataset Used](#dataset-used)
+
+
 # Company’s Performance Analysis – Power BI Project
 ## Project Objective
 The objective of this project is to analyze the company’s overall sales performance across different countries and products.
