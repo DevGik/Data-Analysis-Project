@@ -2,6 +2,9 @@
 - [Dataset Used](#dataset-used)
 - [Questions KPIs the Dashboard Answers](#questions-kpis-the-dashboard-answers)
 - [Process](#process)
+- [Dashboard](#dashboard)
+- [Project Insights](#project-insights)
+- [Final Conclusion](#final-conclusion)
 
 
 # Company’s Performance Analysis – Power BI Project
