@@ -1,6 +1,6 @@
 - [Project Objectives](#project-objective)
 - [Dataset Used](#dataset-used)
-- [Questions (KPIs) the Dashboard Answers](#questions-(kpis)-the-dashboard-answers)
+- [Questions KPIs the Dashboard Answers](#questions-(kpis)-the-dashboard-answers)
 - [Process](#process)
 
 
